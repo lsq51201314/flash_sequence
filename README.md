@@ -22,8 +22,8 @@ https://github.com/lsq51201314/flash_xml2png
 
 ```
 命令：
-flash_xml2png <infile>
+flash_sequence <infile> <names>
 
 示例：
-flash_xml2png.exe "D:\UserData\Desktop\mapAssets\cloth\default\01\attack1.xml"
+flash_sequence.exe "D:\UserData\Desktop\mapAssets\cloth\fashioncloths\1\01" [attack1,attack2,attack3,die,doublesit,hit,hit_onmount,jump,move,move_onmount,sit,stand,stand_onmount]
 ```
